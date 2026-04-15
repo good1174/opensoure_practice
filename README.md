@@ -1,8 +1,7 @@
 # 
 
 # MUST INSTALL
-You have to installed the python 3.10.0 
-To start this 
+You have to installed the python 3.10.0.
 
 # Opensoure_week5_Assignment
 
@@ -24,6 +23,7 @@ You must enter the name,role,programming language,commits,country.
 This would be repeated for 4 times.
 For example
 
+''' python
 name: Minho
 role: Backend Dev
 language: Python
@@ -41,12 +41,14 @@ commits: yes
 country: Other
 name: Sara
 role: Data
+'''
 
 For the second code
 After finished the first code you need to enter the id,title,type,priority(Critical/High/Medium/Low),reporter,status(Open/In Progress/Resolved).
 This would be repeated for 5 times.
 For example
 
+''' python
 id : ISS-001
 title : Login crash
 type : (Bug/Feature)Bug
@@ -72,32 +74,10 @@ priority: (Critical/High/Medium/Low):Medium
 reporter : Fatima
 status : (Open/In Progress/Resolved): In Progress
 id : ISS-005
-
+'''
 For the third,fourth,fifth code
 You don't need to do anything to execute. If you followed the upper step.
 
-``` python
-model_path = "Lin-Chen/ShareGPT4V-7B"
-prompt = "What is the most common catchphrase of the character on the right?"
-image_file = "examples/breaking_bad.png"
-
-args = type('Args', (), {
-    "model_path": model_path,
-    "model_base": None,
-    "model_name": get_model_name_from_path(model_path),
-    "query": prompt,
-    "conv_mode": None,
-    "image_file": image_file,
-    "sep": ",",
-    "temperature": 0,
-    "top_p": None,
-    "num_beams": 1,
-    "max_new_tokens": 512
-})()
-
-eval_model(args)
-```
-</details>
 
 ## Demo
 You can start your local demo by:
