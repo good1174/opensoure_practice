@@ -23,7 +23,7 @@ You must enter the name,role,programming language,commits,country.
 This would be repeated for 4 times.
 For example
 
-' python
+'''
 name: Minho
 role: Backend Dev
 language: Python
@@ -41,7 +41,7 @@ commits: yes
 country: Other
 name: Sara
 role: Data
-'
+'''
 
 For the second code
 After finished the first code you need to enter the id,title,type,priority(Critical/High/Medium/Low),reporter,status(Open/In Progress/Resolved).
