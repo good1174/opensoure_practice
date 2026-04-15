@@ -23,7 +23,7 @@ You must enter the name,role,programming language,commits,country.
 This would be repeated for 4 times.
 For example
 
-''' python
+' python
 name: Minho
 role: Backend Dev
 language: Python
@@ -41,14 +41,14 @@ commits: yes
 country: Other
 name: Sara
 role: Data
-'''
+'
 
 For the second code
 After finished the first code you need to enter the id,title,type,priority(Critical/High/Medium/Low),reporter,status(Open/In Progress/Resolved).
 This would be repeated for 5 times.
 For example
 
-''' python
+' python
 id : ISS-001
 title : Login crash
 type : (Bug/Feature)Bug
@@ -74,7 +74,7 @@ priority: (Critical/High/Medium/Low):Medium
 reporter : Fatima
 status : (Open/In Progress/Resolved): In Progress
 id : ISS-005
-'''
+'
 For the third,fourth,fifth code
 You don't need to do anything to execute. If you followed the upper step.
 
