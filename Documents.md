@@ -1,10 +1,3 @@
-Your documentation for the Opensource_week5_Assignment is ready. The PDF includes a structured layout with an introduction, detailed operating instructions, and licensing information.
-
- Opensource...umentation 
-PDF
-
-Below is the text version that you can copy and use directly:
-
 Project Documentation: Opensource_week5_Assignment
 1. Introduction and Purpose
 The Opensource_week5_Assignment project is a specialized management toolkit designed for open-source project maintainers. It provides a structured environment to track contributor demographics, manage issue lifecycles, and export project data into portable formats. The system is designed to streamline administrative tasks, allowing maintainers to focus on code quality and community growth.
